@@ -1,0 +1,4 @@
+[console_scripts]
+simple_publisher = frobot_py_examples.simple_publisher:main
+simple_subscriber = frobot_py_examples.simple_subscriber:main
+
