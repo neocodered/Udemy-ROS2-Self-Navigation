@@ -1,0 +1,15 @@
+<<<<<<<<<<<<<<<<<<<< Python >>>>>>>>>>>>>>>>>>>>>>>>
+
+---------------- Running the Node --------------
+
+1. Setting up the directory
+2. Colcon build
+3. Source the install directory >> . install/setup.bash
+4. Run the node >> ros2 run bumperbot_py_examples simple_publisher
+
+-------------- Analyzing the node --------------
+
+1. To see the topics >> ros2 topic list
+2. To see the msgs >> ros2 topic echo /chatter
+3. To see the details of the topic >> ros2 topic info/chatter --verbose
+4. To get the stats of the data >> ros2 topic hz /chatter
