@@ -1,0 +1,25 @@
+[0.539s] Invoking command in '/home/nadilgunawardane/frobot_ws/src/frobot_py_examples': PYTHONPATH=/home/nadilgunawardane/frobot_ws/build/frobot_py_examples/prefix_override:/home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/frobot_py_examples build --build-base /home/nadilgunawardane/frobot_ws/build/frobot_py_examples/build install --record /home/nadilgunawardane/frobot_ws/build/frobot_py_examples/install.log --single-version-externally-managed install_data
+[0.728s] running egg_info
+[0.728s] writing ../../build/frobot_py_examples/frobot_py_examples.egg-info/PKG-INFO
+[0.729s] writing dependency_links to ../../build/frobot_py_examples/frobot_py_examples.egg-info/dependency_links.txt
+[0.729s] writing entry points to ../../build/frobot_py_examples/frobot_py_examples.egg-info/entry_points.txt
+[0.729s] writing requirements to ../../build/frobot_py_examples/frobot_py_examples.egg-info/requires.txt
+[0.729s] writing top-level names to ../../build/frobot_py_examples/frobot_py_examples.egg-info/top_level.txt
+[0.730s] reading manifest file '../../build/frobot_py_examples/frobot_py_examples.egg-info/SOURCES.txt'
+[0.731s] writing manifest file '../../build/frobot_py_examples/frobot_py_examples.egg-info/SOURCES.txt'
+[0.731s] running build
+[0.732s] running build_py
+[0.732s] copying frobot_py_examples/simple_publisher.py -> /home/nadilgunawardane/frobot_ws/build/frobot_py_examples/build/lib/frobot_py_examples
+[0.732s] running install
+[0.732s] running install_lib
+[0.733s] copying /home/nadilgunawardane/frobot_ws/build/frobot_py_examples/build/lib/frobot_py_examples/simple_publisher.py -> /home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/python3.10/site-packages/frobot_py_examples
+[0.733s] byte-compiling /home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/python3.10/site-packages/frobot_py_examples/simple_publisher.py to simple_publisher.cpython-310.pyc
+[0.733s] running install_data
+[0.734s] copying package.xml -> /home/nadilgunawardane/frobot_ws/install/frobot_py_examples/share/frobot_py_examples
+[0.734s] running install_egg_info
+[0.735s] removing '/home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/python3.10/site-packages/frobot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[0.735s] Copying ../../build/frobot_py_examples/frobot_py_examples.egg-info to /home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/python3.10/site-packages/frobot_py_examples-0.0.0-py3.10.egg-info
+[0.736s] running install_scripts
+[0.759s] Installing simple_publisher script to /home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/frobot_py_examples
+[0.759s] writing list of installed files to '/home/nadilgunawardane/frobot_ws/build/frobot_py_examples/install.log'
+[0.788s] Invoked command in '/home/nadilgunawardane/frobot_ws/src/frobot_py_examples' returned '0': PYTHONPATH=/home/nadilgunawardane/frobot_ws/build/frobot_py_examples/prefix_override:/home/nadilgunawardane/frobot_ws/install/frobot_py_examples/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/frobot_py_examples build --build-base /home/nadilgunawardane/frobot_ws/build/frobot_py_examples/build install --record /home/nadilgunawardane/frobot_ws/build/frobot_py_examples/install.log --single-version-externally-managed install_data
