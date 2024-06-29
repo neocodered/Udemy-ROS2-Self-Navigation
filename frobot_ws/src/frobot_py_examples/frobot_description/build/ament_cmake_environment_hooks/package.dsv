@@ -1,0 +1,4 @@
+source;share/frobot_description/local_setup.bash
+source;share/frobot_description/local_setup.dsv
+source;share/frobot_description/local_setup.sh
+source;share/frobot_description/local_setup.zsh
